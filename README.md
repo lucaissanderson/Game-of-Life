@@ -1,4 +1,4 @@
-# Assignment 4: The Game of Life
+# The Game of Life
 
 ## Files:
 
